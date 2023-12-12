@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hvmanker
 - 👀 I’m interested in logical development
-- 🌱 I’m currently learning java dsa c++
-- 💞️ I’m looking to collaborate on python java and learining new things 
+- 🌱 I’m currently learning dsa and full stack web development 
+- 💞️ I’m looking to collaborate on full stack development and learining new things 
 - 📫 How to reach me himankverma121@gmail.com
 
 <!---
